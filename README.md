@@ -1,1 +1,1 @@
-# space-invaders-pygame-tut
+# Space Invaders Pygame Tutorial
